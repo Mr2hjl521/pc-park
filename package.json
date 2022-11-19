@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.2.0",
-    "@vue/cli-service": "^3.2.0",
+    "@vue/cli-service": "^5.0.8",
     "vue-template-compiler": "^2.5.21"
   },
   "description": "<a href=\"https://github.com/vuejs/vue\">\r     <img src=\"https://img.shields.io/badge/vue-2.6.10-brightgreen.svg\" alt=\"vue\">\r   </a>\r   <a href=\"https://github.com/ElemeFE/element\">\r     <img src=\"https://img.shields.io/badge/element--ui-2.8.2-brightgreen.svg\" alt=\"element-ui\">\r   </a>\r   <a href=\"https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE\">\r     <img src=\"https://img.shields.io/github/license/mashape/apistatus.svg\" alt=\"license\">\r   </a>\r   <a href=\"https://github.com/lin-xin/vue-manage-system/releases\">\r     <img src=\"https://img.shields.io/github/release/lin-xin/vue-manage-system.svg\" alt=\"GitHub release\">\r   </a>\r   <a href=\"http://blog.gdfengshuo.com/example/work/#/donate\">\r     <img src=\"https://img.shields.io/badge/%24-donate-ff69b4.svg\" alt=\"donate\">\r   </a>",
